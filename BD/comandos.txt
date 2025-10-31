@@ -1,0 +1,5 @@
+copiar bd
+mongodump --db RealEstateDb --out ./backup
+
+restaurar bd
+mongorestore --db RealEstateDb ./backup/RealEstateDb

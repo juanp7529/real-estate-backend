@@ -1,0 +1,1850 @@
+[{
+  "_id": {
+    "$oid": "6903c83c4a26f14db19fe906"
+  },
+  "Name": "Loft Medellín #1",
+  "Address": "Calle 96 #66-54, Medellín",
+  "Price": 1013000000,
+  "CodeInternal": "LO-001",
+  "Year": 2023,
+  "Owner": {
+    "OwnerId": "1",
+    "Name": "Propietario 1",
+    "Address": "Dirección 1, Medellín",
+    "Photo": "https://picsum.photos/200/300",
+    "Birthday": {
+      "$date": "1981-12-26T00:00:00.000Z"
+    }
+  },
+  "Images": [
+    {
+      "ImageId": "1",
+      "File": "https://picsum.photos/200/300",
+      "Enabled": true
+    }
+  ],
+  "Traces": [
+    {
+      "TraceId": "1",
+      "Name": "Venta inicial",
+      "DateSale": {
+        "$date": "2021-11-27T00:00:00.000Z"
+      },
+      "Value": 983000000,
+      "Tax": 14000000
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6903c83c4a26f14db19fe907"
+  },
+  "Name": "Penthouse Bogotá #2",
+  "Address": "Calle 15 #51-37, Bogotá",
+  "Price": 274000000,
+  "CodeInternal": "PE-002",
+  "Year": 2015,
+  "Owner": {
+    "OwnerId": "2",
+    "Name": "Propietario 2",
+    "Address": "Dirección 2, Bogotá",
+    "Photo": "https://picsum.photos/200/300",
+    "Birthday": {
+      "$date": "1982-11-03T00:00:00.000Z"
+    }
+  },
+  "Images": [
+    {
+      "ImageId": "2",
+      "File": "https://picsum.photos/200/300",
+      "Enabled": true
+    }
+  ],
+  "Traces": [
+    {
+      "TraceId": "2",
+      "Name": "Venta inicial",
+      "DateSale": {
+        "$date": "2022-03-02T00:00:00.000Z"
+      },
+      "Value": 244000000,
+      "Tax": 11000000
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6903c83c4a26f14db19fe908"
+  },
+  "Name": "Apartamento Cali #3",
+  "Address": "Calle 45 #57-84, Cali",
+  "Price": 858000000,
+  "CodeInternal": "AP-003",
+  "Year": 2022,
+  "Owner": {
+    "OwnerId": "3",
+    "Name": "Propietario 3",
+    "Address": "Dirección 3, Cali",
+    "Photo": "https://picsum.photos/200/300",
+    "Birthday": {
+      "$date": "1983-05-16T00:00:00.000Z"
+    }
+  },
+  "Images": [
+    {
+      "ImageId": "3",
+      "File": "https://picsum.photos/200/300",
+      "Enabled": false
+    }
+  ],
+  "Traces": [
+    {
+      "TraceId": "3",
+      "Name": "Venta inicial",
+      "DateSale": {
+        "$date": "2023-08-26T00:00:00.000Z"
+      },
+      "Value": 841000000,
+      "Tax": 10000000
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6903c83c4a26f14db19fe909"
+  },
+  "Name": "Casa Cali #4",
+  "Address": "Calle 50 #69-67, Cali",
+  "Price": 388000000,
+  "CodeInternal": "CA-004",
+  "Year": 2023,
+  "Owner": {
+    "OwnerId": "4",
+    "Name": "Propietario 4",
+    "Address": "Dirección 4, Cali",
+    "Photo": "https://picsum.photos/200/300",
+    "Birthday": {
+      "$date": "1984-01-23T00:00:00.000Z"
+    }
+  },
+  "Images": [
+    {
+      "ImageId": "4",
+      "File": "https://picsum.photos/200/300",
+      "Enabled": true
+    }
+  ],
+  "Traces": [
+    {
+      "TraceId": "4",
+      "Name": "Venta inicial",
+      "DateSale": {
+        "$date": "2020-03-06T00:00:00.000Z"
+      },
+      "Value": 373000000,
+      "Tax": 10000000
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6903c83c4a26f14db19fe90a"
+  },
+  "Name": "Loft Cartagena #5",
+  "Address": "Calle 25 #76-66, Cartagena",
+  "Price": 616000000,
+  "CodeInternal": "LO-005",
+  "Year": 2019,
+  "Owner": {
+    "OwnerId": "5",
+    "Name": "Propietario 5",
+    "Address": "Dirección 5, Cartagena",
+    "Photo": "https://picsum.photos/200/300",
+    "Birthday": {
+      "$date": "1985-01-02T00:00:00.000Z"
+    }
+  },
+  "Images": [
+    {
+      "ImageId": "5",
+      "File": "https://picsum.photos/200/300",
+      "Enabled": true
+    }
+  ],
+  "Traces": [
+    {
+      "TraceId": "5",
+      "Name": "Venta inicial",
+      "DateSale": {
+        "$date": "2021-08-23T00:00:00.000Z"
+      },
+      "Value": 599000000,
+      "Tax": 11000000
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6903c83c4a26f14db19fe90b"
+  },
+  "Name": "Villa Bogotá #6",
+  "Address": "Calle 80 #18-23, Bogotá",
+  "Price": 720000000,
+  "CodeInternal": "VI-006",
+  "Year": 2022,
+  "Owner": {
+    "OwnerId": "6",
+    "Name": "Propietario 6",
+    "Address": "Dirección 6, Bogotá",
+    "Photo": "https://picsum.photos/200/300",
+    "Birthday": {
+      "$date": "1986-05-22T00:00:00.000Z"
+    }
+  },
+  "Images": [
+    {
+      "ImageId": "6",
+      "File": "https://picsum.photos/200/300",
+      "Enabled": false
+    }
+  ],
+  "Traces": [
+    {
+      "TraceId": "6",
+      "Name": "Venta inicial",
+      "DateSale": {
+        "$date": "2022-11-22T00:00:00.000Z"
+      },
+      "Value": 678000000,
+      "Tax": 7000000
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6903c83c4a26f14db19fe90c"
+  },
+  "Name": "Chalet Bucaramanga #7",
+  "Address": "Calle 23 #72-82, Bucaramanga",
+  "Price": 791000000,
+  "CodeInternal": "CH-007",
+  "Year": 2023,
+  "Owner": {
+    "OwnerId": "7",
+    "Name": "Propietario 7",
+    "Address": "Dirección 7, Bucaramanga",
+    "Photo": "https://picsum.photos/200/300",
+    "Birthday": {
+      "$date": "1987-10-25T00:00:00.000Z"
+    }
+  },
+  "Images": [
+    {
+      "ImageId": "7",
+      "File": "https://picsum.photos/200/300",
+      "Enabled": true
+    }
+  ],
+  "Traces": [
+    {
+      "TraceId": "7",
+      "Name": "Venta inicial",
+      "DateSale": {
+        "$date": "2023-02-10T00:00:00.000Z"
+      },
+      "Value": 771000000,
+      "Tax": 15000000
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6903c83c4a26f14db19fe90d"
+  },
+  "Name": "Oficina Medellín #8",
+  "Address": "Calle 76 #68-58, Medellín",
+  "Price": 856000000,
+  "CodeInternal": "OF-008",
+  "Year": 2019,
+  "Owner": {
+    "OwnerId": "8",
+    "Name": "Propietario 8",
+    "Address": "Dirección 8, Medellín",
+    "Photo": "https://picsum.photos/200/300",
+    "Birthday": {
+      "$date": "1988-09-05T00:00:00.000Z"
+    }
+  },
+  "Images": [
+    {
+      "ImageId": "8",
+      "File": "https://picsum.photos/200/300",
+      "Enabled": false
+    }
+  ],
+  "Traces": [
+    {
+      "TraceId": "8",
+      "Name": "Venta inicial",
+      "DateSale": {
+        "$date": "2020-09-23T00:00:00.000Z"
+      },
+      "Value": 817000000,
+      "Tax": 6000000
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6903c83c4a26f14db19fe90e"
+  },
+  "Name": "Casa Cartagena #9",
+  "Address": "Calle 38 #37-66, Cartagena",
+  "Price": 766000000,
+  "CodeInternal": "CA-009",
+  "Year": 2016,
+  "Owner": {
+    "OwnerId": "9",
+    "Name": "Propietario 9",
+    "Address": "Dirección 9, Cartagena",
+    "Photo": "https://picsum.photos/200/300",
+    "Birthday": {
+      "$date": "1989-10-09T00:00:00.000Z"
+    }
+  },
+  "Images": [
+    {
+      "ImageId": "9",
+      "File": "https://picsum.photos/200/300",
+      "Enabled": false
+    }
+  ],
+  "Traces": [
+    {
+      "TraceId": "9",
+      "Name": "Venta inicial",
+      "DateSale": {
+        "$date": "2021-04-10T00:00:00.000Z"
+      },
+      "Value": 741000000,
+      "Tax": 13000000
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6903c83c4a26f14db19fe90f"
+  },
+  "Name": "Apartamento Bucaramanga #10",
+  "Address": "Calle 31 #52-17, Bucaramanga",
+  "Price": 639000000,
+  "CodeInternal": "AP-010",
+  "Year": 2017,
+  "Owner": {
+    "OwnerId": "10",
+    "Name": "Propietario 10",
+    "Address": "Dirección 10, Bucaramanga",
+    "Photo": "https://picsum.photos/200/300",
+    "Birthday": {
+      "$date": "1990-08-03T00:00:00.000Z"
+    }
+  },
+  "Images": [
+    {
+      "ImageId": "10",
+      "File": "https://picsum.photos/200/300",
+      "Enabled": false
+    }
+  ],
+  "Traces": [
+    {
+      "TraceId": "10",
+      "Name": "Venta inicial",
+      "DateSale": {
+        "$date": "2022-04-10T00:00:00.000Z"
+      },
+      "Value": 601000000,
+      "Tax": 6000000
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6903c83c4a26f14db19fe910"
+  },
+  "Name": "Chalet Cartagena #11",
+  "Address": "Calle 93 #3-64, Cartagena",
+  "Price": 437000000,
+  "CodeInternal": "CH-011",
+  "Year": 2017,
+  "Owner": {
+    "OwnerId": "11",
+    "Name": "Propietario 11",
+    "Address": "Dirección 11, Cartagena",
+    "Photo": "https://picsum.photos/200/300",
+    "Birthday": {
+      "$date": "1991-08-06T00:00:00.000Z"
+    }
+  },
+  "Images": [
+    {
+      "ImageId": "11",
+      "File": "https://picsum.photos/200/300",
+      "Enabled": false
+    }
+  ],
+  "Traces": [
+    {
+      "TraceId": "11",
+      "Name": "Venta inicial",
+      "DateSale": {
+        "$date": "2023-10-23T00:00:00.000Z"
+      },
+      "Value": 420000000,
+      "Tax": 14000000
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6903c83c4a26f14db19fe911"
+  },
+  "Name": "Villa Barranquilla #12",
+  "Address": "Calle 32 #33-31, Barranquilla",
+  "Price": 1055000000,
+  "CodeInternal": "VI-012",
+  "Year": 2023,
+  "Owner": {
+    "OwnerId": "12",
+    "Name": "Propietario 12",
+    "Address": "Dirección 12, Barranquilla",
+    "Photo": "https://picsum.photos/200/300",
+    "Birthday": {
+      "$date": "1992-07-15T00:00:00.000Z"
+    }
+  },
+  "Images": [
+    {
+      "ImageId": "12",
+      "File": "https://picsum.photos/200/300",
+      "Enabled": false
+    }
+  ],
+  "Traces": [
+    {
+      "TraceId": "12",
+      "Name": "Venta inicial",
+      "DateSale": {
+        "$date": "2020-02-09T00:00:00.000Z"
+      },
+      "Value": 1017000000,
+      "Tax": 7000000
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6903c83c4a26f14db19fe912"
+  },
+  "Name": "Loft Bogotá #13",
+  "Address": "Calle 44 #18-33, Bogotá",
+  "Price": 519000000,
+  "CodeInternal": "LO-013",
+  "Year": 2018,
+  "Owner": {
+    "OwnerId": "13",
+    "Name": "Propietario 13",
+    "Address": "Dirección 13, Bogotá",
+    "Photo": "https://picsum.photos/200/300",
+    "Birthday": {
+      "$date": "1993-08-20T00:00:00.000Z"
+    }
+  },
+  "Images": [
+    {
+      "ImageId": "13",
+      "File": "https://picsum.photos/200/300",
+      "Enabled": false
+    }
+  ],
+  "Traces": [
+    {
+      "TraceId": "13",
+      "Name": "Venta inicial",
+      "DateSale": {
+        "$date": "2021-02-23T00:00:00.000Z"
+      },
+      "Value": 505000000,
+      "Tax": 7000000
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6903c83c4a26f14db19fe913"
+  },
+  "Name": "Casa Bucaramanga #14",
+  "Address": "Calle 90 #32-32, Bucaramanga",
+  "Price": 717000000,
+  "CodeInternal": "CA-014",
+  "Year": 2015,
+  "Owner": {
+    "OwnerId": "14",
+    "Name": "Propietario 14",
+    "Address": "Dirección 14, Bucaramanga",
+    "Photo": "https://picsum.photos/200/300",
+    "Birthday": {
+      "$date": "1994-11-06T00:00:00.000Z"
+    }
+  },
+  "Images": [
+    {
+      "ImageId": "14",
+      "File": "https://picsum.photos/200/300",
+      "Enabled": false
+    }
+  ],
+  "Traces": [
+    {
+      "TraceId": "14",
+      "Name": "Venta inicial",
+      "DateSale": {
+        "$date": "2022-11-07T00:00:00.000Z"
+      },
+      "Value": 705000000,
+      "Tax": 5000000
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6903c83c4a26f14db19fe914"
+  },
+  "Name": "Penthouse Cali #15",
+  "Address": "Calle 94 #7-52, Cali",
+  "Price": 267000000,
+  "CodeInternal": "PE-015",
+  "Year": 2022,
+  "Owner": {
+    "OwnerId": "15",
+    "Name": "Propietario 15",
+    "Address": "Dirección 15, Cali",
+    "Photo": "https://picsum.photos/200/300",
+    "Birthday": {
+      "$date": "1995-09-24T00:00:00.000Z"
+    }
+  },
+  "Images": [
+    {
+      "ImageId": "15",
+      "File": "https://picsum.photos/200/300",
+      "Enabled": false
+    }
+  ],
+  "Traces": [
+    {
+      "TraceId": "15",
+      "Name": "Venta inicial",
+      "DateSale": {
+        "$date": "2023-08-18T00:00:00.000Z"
+      },
+      "Value": 240000000,
+      "Tax": 15000000
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6903c83c4a26f14db19fe915"
+  },
+  "Name": "Finca Barranquilla #16",
+  "Address": "Calle 23 #83-86, Barranquilla",
+  "Price": 233000000,
+  "CodeInternal": "FI-016",
+  "Year": 2022,
+  "Owner": {
+    "OwnerId": "16",
+    "Name": "Propietario 16",
+    "Address": "Dirección 16, Barranquilla",
+    "Photo": "https://picsum.photos/200/300",
+    "Birthday": {
+      "$date": "1996-07-12T00:00:00.000Z"
+    }
+  },
+  "Images": [
+    {
+      "ImageId": "16",
+      "File": "https://picsum.photos/200/300",
+      "Enabled": true
+    }
+  ],
+  "Traces": [
+    {
+      "TraceId": "16",
+      "Name": "Venta inicial",
+      "DateSale": {
+        "$date": "2020-08-02T00:00:00.000Z"
+      },
+      "Value": 221000000,
+      "Tax": 9000000
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6903c83c4a26f14db19fe916"
+  },
+  "Name": "Oficina Barranquilla #17",
+  "Address": "Calle 45 #47-48, Barranquilla",
+  "Price": 534000000,
+  "CodeInternal": "OF-017",
+  "Year": 2015,
+  "Owner": {
+    "OwnerId": "17",
+    "Name": "Propietario 17",
+    "Address": "Dirección 17, Barranquilla",
+    "Photo": "https://picsum.photos/200/300",
+    "Birthday": {
+      "$date": "1997-04-08T00:00:00.000Z"
+    }
+  },
+  "Images": [
+    {
+      "ImageId": "17",
+      "File": "https://picsum.photos/200/300",
+      "Enabled": false
+    }
+  ],
+  "Traces": [
+    {
+      "TraceId": "17",
+      "Name": "Venta inicial",
+      "DateSale": {
+        "$date": "2021-12-26T00:00:00.000Z"
+      },
+      "Value": 520000000,
+      "Tax": 5000000
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6903c83c4a26f14db19fe917"
+  },
+  "Name": "Loft Bogotá #18",
+  "Address": "Calle 74 #27-74, Bogotá",
+  "Price": 666000000,
+  "CodeInternal": "LO-018",
+  "Year": 2021,
+  "Owner": {
+    "OwnerId": "18",
+    "Name": "Propietario 18",
+    "Address": "Dirección 18, Bogotá",
+    "Photo": "https://picsum.photos/200/300",
+    "Birthday": {
+      "$date": "1998-10-17T00:00:00.000Z"
+    }
+  },
+  "Images": [
+    {
+      "ImageId": "18",
+      "File": "https://picsum.photos/200/300",
+      "Enabled": true
+    }
+  ],
+  "Traces": [
+    {
+      "TraceId": "18",
+      "Name": "Venta inicial",
+      "DateSale": {
+        "$date": "2022-11-07T00:00:00.000Z"
+      },
+      "Value": 655000000,
+      "Tax": 13000000
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6903c83c4a26f14db19fe918"
+  },
+  "Name": "Apartamento Barranquilla #19",
+  "Address": "Calle 69 #74-75, Barranquilla",
+  "Price": 493000000,
+  "CodeInternal": "AP-019",
+  "Year": 2017,
+  "Owner": {
+    "OwnerId": "19",
+    "Name": "Propietario 19",
+    "Address": "Dirección 19, Barranquilla",
+    "Photo": "https://picsum.photos/200/300",
+    "Birthday": {
+      "$date": "1999-06-25T00:00:00.000Z"
+    }
+  },
+  "Images": [
+    {
+      "ImageId": "19",
+      "File": "https://picsum.photos/200/300",
+      "Enabled": false
+    }
+  ],
+  "Traces": [
+    {
+      "TraceId": "19",
+      "Name": "Venta inicial",
+      "DateSale": {
+        "$date": "2023-09-17T00:00:00.000Z"
+      },
+      "Value": 456000000,
+      "Tax": 6000000
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6903c83c4a26f14db19fe919"
+  },
+  "Name": "Apartamento Bogotá #20",
+  "Address": "Calle 54 #18-14, Bogotá",
+  "Price": 1109000000,
+  "CodeInternal": "AP-020",
+  "Year": 2018,
+  "Owner": {
+    "OwnerId": "20",
+    "Name": "Propietario 20",
+    "Address": "Dirección 20, Bogotá",
+    "Photo": "https://picsum.photos/200/300",
+    "Birthday": {
+      "$date": "1980-01-19T00:00:00.000Z"
+    }
+  },
+  "Images": [
+    {
+      "ImageId": "20",
+      "File": "https://picsum.photos/200/300",
+      "Enabled": true
+    }
+  ],
+  "Traces": [
+    {
+      "TraceId": "20",
+      "Name": "Venta inicial",
+      "DateSale": {
+        "$date": "2020-08-19T00:00:00.000Z"
+      },
+      "Value": 1077000000,
+      "Tax": 12000000
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6903c83c4a26f14db19fe91a"
+  },
+  "Name": "Apartamento Barranquilla #21",
+  "Address": "Calle 97 #90-41, Barranquilla",
+  "Price": 639000000,
+  "CodeInternal": "AP-021",
+  "Year": 2024,
+  "Owner": {
+    "OwnerId": "21",
+    "Name": "Propietario 21",
+    "Address": "Dirección 21, Barranquilla",
+    "Photo": "https://picsum.photos/200/300",
+    "Birthday": {
+      "$date": "1981-10-03T00:00:00.000Z"
+    }
+  },
+  "Images": [
+    {
+      "ImageId": "21",
+      "File": "https://picsum.photos/200/300",
+      "Enabled": false
+    }
+  ],
+  "Traces": [
+    {
+      "TraceId": "21",
+      "Name": "Venta inicial",
+      "DateSale": {
+        "$date": "2021-06-04T00:00:00.000Z"
+      },
+      "Value": 589000000,
+      "Tax": 6000000
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6903c83c4a26f14db19fe91b"
+  },
+  "Name": "Chalet Bogotá #22",
+  "Address": "Calle 12 #73-59, Bogotá",
+  "Price": 802000000,
+  "CodeInternal": "CH-022",
+  "Year": 2022,
+  "Owner": {
+    "OwnerId": "22",
+    "Name": "Propietario 22",
+    "Address": "Dirección 22, Bogotá",
+    "Photo": "https://picsum.photos/200/300",
+    "Birthday": {
+      "$date": "1982-12-04T00:00:00.000Z"
+    }
+  },
+  "Images": [
+    {
+      "ImageId": "22",
+      "File": "https://picsum.photos/200/300",
+      "Enabled": false
+    }
+  ],
+  "Traces": [
+    {
+      "TraceId": "22",
+      "Name": "Venta inicial",
+      "DateSale": {
+        "$date": "2022-10-14T00:00:00.000Z"
+      },
+      "Value": 776000000,
+      "Tax": 15000000
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6903c83c4a26f14db19fe91c"
+  },
+  "Name": "Finca Bogotá #23",
+  "Address": "Calle 62 #77-82, Bogotá",
+  "Price": 1135000000,
+  "CodeInternal": "FI-023",
+  "Year": 2022,
+  "Owner": {
+    "OwnerId": "23",
+    "Name": "Propietario 23",
+    "Address": "Dirección 23, Bogotá",
+    "Photo": "https://picsum.photos/200/300",
+    "Birthday": {
+      "$date": "1983-04-03T00:00:00.000Z"
+    }
+  },
+  "Images": [
+    {
+      "ImageId": "23",
+      "File": "https://picsum.photos/200/300",
+      "Enabled": false
+    }
+  ],
+  "Traces": [
+    {
+      "TraceId": "23",
+      "Name": "Venta inicial",
+      "DateSale": {
+        "$date": "2023-08-05T00:00:00.000Z"
+      },
+      "Value": 1093000000,
+      "Tax": 15000000
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6903c83c4a26f14db19fe91d"
+  },
+  "Name": "Finca Barranquilla #24",
+  "Address": "Calle 93 #48-50, Barranquilla",
+  "Price": 867000000,
+  "CodeInternal": "FI-024",
+  "Year": 2024,
+  "Owner": {
+    "OwnerId": "24",
+    "Name": "Propietario 24",
+    "Address": "Dirección 24, Barranquilla",
+    "Photo": "https://picsum.photos/200/300",
+    "Birthday": {
+      "$date": "1984-12-17T00:00:00.000Z"
+    }
+  },
+  "Images": [
+    {
+      "ImageId": "24",
+      "File": "https://picsum.photos/200/300",
+      "Enabled": false
+    }
+  ],
+  "Traces": [
+    {
+      "TraceId": "24",
+      "Name": "Venta inicial",
+      "DateSale": {
+        "$date": "2020-06-08T00:00:00.000Z"
+      },
+      "Value": 829000000,
+      "Tax": 12000000
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6903c83c4a26f14db19fe91e"
+  },
+  "Name": "Loft Bucaramanga #25",
+  "Address": "Calle 13 #25-9, Bucaramanga",
+  "Price": 345000000,
+  "CodeInternal": "LO-025",
+  "Year": 2020,
+  "Owner": {
+    "OwnerId": "25",
+    "Name": "Propietario 25",
+    "Address": "Dirección 25, Bucaramanga",
+    "Photo": "https://picsum.photos/200/300",
+    "Birthday": {
+      "$date": "1985-08-01T00:00:00.000Z"
+    }
+  },
+  "Images": [
+    {
+      "ImageId": "25",
+      "File": "https://picsum.photos/200/300",
+      "Enabled": true
+    }
+  ],
+  "Traces": [
+    {
+      "TraceId": "25",
+      "Name": "Venta inicial",
+      "DateSale": {
+        "$date": "2021-09-05T00:00:00.000Z"
+      },
+      "Value": 303000000,
+      "Tax": 15000000
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6903c83c4a26f14db19fe91f"
+  },
+  "Name": "Apartamento Cartagena #26",
+  "Address": "Calle 25 #87-60, Cartagena",
+  "Price": 1024000000,
+  "CodeInternal": "AP-026",
+  "Year": 2024,
+  "Owner": {
+    "OwnerId": "26",
+    "Name": "Propietario 26",
+    "Address": "Dirección 26, Cartagena",
+    "Photo": "https://picsum.photos/200/300",
+    "Birthday": {
+      "$date": "1986-09-09T00:00:00.000Z"
+    }
+  },
+  "Images": [
+    {
+      "ImageId": "26",
+      "File": "https://picsum.photos/200/300",
+      "Enabled": false
+    }
+  ],
+  "Traces": [
+    {
+      "TraceId": "26",
+      "Name": "Venta inicial",
+      "DateSale": {
+        "$date": "2022-11-06T00:00:00.000Z"
+      },
+      "Value": 989000000,
+      "Tax": 8000000
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6903c83c4a26f14db19fe920"
+  },
+  "Name": "Finca Barranquilla #27",
+  "Address": "Calle 41 #63-65, Barranquilla",
+  "Price": 1130000000,
+  "CodeInternal": "FI-027",
+  "Year": 2021,
+  "Owner": {
+    "OwnerId": "27",
+    "Name": "Propietario 27",
+    "Address": "Dirección 27, Barranquilla",
+    "Photo": "https://picsum.photos/200/300",
+    "Birthday": {
+      "$date": "1987-02-23T00:00:00.000Z"
+    }
+  },
+  "Images": [
+    {
+      "ImageId": "27",
+      "File": "https://picsum.photos/200/300",
+      "Enabled": true
+    }
+  ],
+  "Traces": [
+    {
+      "TraceId": "27",
+      "Name": "Venta inicial",
+      "DateSale": {
+        "$date": "2023-04-15T00:00:00.000Z"
+      },
+      "Value": 1120000000,
+      "Tax": 6000000
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6903c83c4a26f14db19fe921"
+  },
+  "Name": "Casa Cali #28",
+  "Address": "Calle 53 #31-28, Cali",
+  "Price": 336000000,
+  "CodeInternal": "CA-028",
+  "Year": 2019,
+  "Owner": {
+    "OwnerId": "28",
+    "Name": "Propietario 28",
+    "Address": "Dirección 28, Cali",
+    "Photo": "https://picsum.photos/200/300",
+    "Birthday": {
+      "$date": "1988-03-10T00:00:00.000Z"
+    }
+  },
+  "Images": [
+    {
+      "ImageId": "28",
+      "File": "https://picsum.photos/200/300",
+      "Enabled": true
+    }
+  ],
+  "Traces": [
+    {
+      "TraceId": "28",
+      "Name": "Venta inicial",
+      "DateSale": {
+        "$date": "2020-12-01T00:00:00.000Z"
+      },
+      "Value": 290000000,
+      "Tax": 12000000
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6903c83c4a26f14db19fe922"
+  },
+  "Name": "Loft Cali #29",
+  "Address": "Calle 79 #3-7, Cali",
+  "Price": 824000000,
+  "CodeInternal": "LO-029",
+  "Year": 2023,
+  "Owner": {
+    "OwnerId": "29",
+    "Name": "Propietario 29",
+    "Address": "Dirección 29, Cali",
+    "Photo": "https://picsum.photos/200/300",
+    "Birthday": {
+      "$date": "1989-09-07T00:00:00.000Z"
+    }
+  },
+  "Images": [
+    {
+      "ImageId": "29",
+      "File": "https://picsum.photos/200/300",
+      "Enabled": true
+    }
+  ],
+  "Traces": [
+    {
+      "TraceId": "29",
+      "Name": "Venta inicial",
+      "DateSale": {
+        "$date": "2021-01-22T00:00:00.000Z"
+      },
+      "Value": 784000000,
+      "Tax": 8000000
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6903c83c4a26f14db19fe923"
+  },
+  "Name": "Loft Cali #30",
+  "Address": "Calle 73 #48-7, Cali",
+  "Price": 774000000,
+  "CodeInternal": "LO-030",
+  "Year": 2018,
+  "Owner": {
+    "OwnerId": "30",
+    "Name": "Propietario 30",
+    "Address": "Dirección 30, Cali",
+    "Photo": "https://picsum.photos/200/300",
+    "Birthday": {
+      "$date": "1990-04-21T00:00:00.000Z"
+    }
+  },
+  "Images": [
+    {
+      "ImageId": "30",
+      "File": "https://picsum.photos/200/300",
+      "Enabled": true
+    }
+  ],
+  "Traces": [
+    {
+      "TraceId": "30",
+      "Name": "Venta inicial",
+      "DateSale": {
+        "$date": "2022-01-20T00:00:00.000Z"
+      },
+      "Value": 732000000,
+      "Tax": 11000000
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6903c83c4a26f14db19fe924"
+  },
+  "Name": "Chalet Cartagena #31",
+  "Address": "Calle 37 #62-27, Cartagena",
+  "Price": 448000000,
+  "CodeInternal": "CH-031",
+  "Year": 2022,
+  "Owner": {
+    "OwnerId": "31",
+    "Name": "Propietario 31",
+    "Address": "Dirección 31, Cartagena",
+    "Photo": "https://picsum.photos/200/300",
+    "Birthday": {
+      "$date": "1991-04-23T00:00:00.000Z"
+    }
+  },
+  "Images": [
+    {
+      "ImageId": "31",
+      "File": "https://picsum.photos/200/300",
+      "Enabled": true
+    }
+  ],
+  "Traces": [
+    {
+      "TraceId": "31",
+      "Name": "Venta inicial",
+      "DateSale": {
+        "$date": "2023-04-06T00:00:00.000Z"
+      },
+      "Value": 407000000,
+      "Tax": 8000000
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6903c83c4a26f14db19fe925"
+  },
+  "Name": "Casa Barranquilla #32",
+  "Address": "Calle 44 #52-49, Barranquilla",
+  "Price": 1072000000,
+  "CodeInternal": "CA-032",
+  "Year": 2017,
+  "Owner": {
+    "OwnerId": "32",
+    "Name": "Propietario 32",
+    "Address": "Dirección 32, Barranquilla",
+    "Photo": "https://picsum.photos/200/300",
+    "Birthday": {
+      "$date": "1992-12-25T00:00:00.000Z"
+    }
+  },
+  "Images": [
+    {
+      "ImageId": "32",
+      "File": "https://picsum.photos/200/300",
+      "Enabled": false
+    }
+  ],
+  "Traces": [
+    {
+      "TraceId": "32",
+      "Name": "Venta inicial",
+      "DateSale": {
+        "$date": "2020-05-20T00:00:00.000Z"
+      },
+      "Value": 1037000000,
+      "Tax": 6000000
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6903c83c4a26f14db19fe926"
+  },
+  "Name": "Loft Cali #33",
+  "Address": "Calle 100 #49-52, Cali",
+  "Price": 848000000,
+  "CodeInternal": "LO-033",
+  "Year": 2022,
+  "Owner": {
+    "OwnerId": "33",
+    "Name": "Propietario 33",
+    "Address": "Dirección 33, Cali",
+    "Photo": "https://picsum.photos/200/300",
+    "Birthday": {
+      "$date": "1993-06-21T00:00:00.000Z"
+    }
+  },
+  "Images": [
+    {
+      "ImageId": "33",
+      "File": "https://picsum.photos/200/300",
+      "Enabled": false
+    }
+  ],
+  "Traces": [
+    {
+      "TraceId": "33",
+      "Name": "Venta inicial",
+      "DateSale": {
+        "$date": "2021-02-27T00:00:00.000Z"
+      },
+      "Value": 809000000,
+      "Tax": 12000000
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6903c83c4a26f14db19fe927"
+  },
+  "Name": "Casa Bogotá #34",
+  "Address": "Calle 91 #35-73, Bogotá",
+  "Price": 407000000,
+  "CodeInternal": "CA-034",
+  "Year": 2016,
+  "Owner": {
+    "OwnerId": "34",
+    "Name": "Propietario 34",
+    "Address": "Dirección 34, Bogotá",
+    "Photo": "https://picsum.photos/200/300",
+    "Birthday": {
+      "$date": "1994-10-07T00:00:00.000Z"
+    }
+  },
+  "Images": [
+    {
+      "ImageId": "34",
+      "File": "https://picsum.photos/200/300",
+      "Enabled": true
+    }
+  ],
+  "Traces": [
+    {
+      "TraceId": "34",
+      "Name": "Venta inicial",
+      "DateSale": {
+        "$date": "2022-11-15T00:00:00.000Z"
+      },
+      "Value": 392000000,
+      "Tax": 11000000
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6903c83c4a26f14db19fe928"
+  },
+  "Name": "Apartamento Medellín #35",
+  "Address": "Calle 83 #50-31, Medellín",
+  "Price": 731000000,
+  "CodeInternal": "AP-035",
+  "Year": 2022,
+  "Owner": {
+    "OwnerId": "35",
+    "Name": "Propietario 35",
+    "Address": "Dirección 35, Medellín",
+    "Photo": "https://picsum.photos/200/300",
+    "Birthday": {
+      "$date": "1995-11-17T00:00:00.000Z"
+    }
+  },
+  "Images": [
+    {
+      "ImageId": "35",
+      "File": "https://picsum.photos/200/300",
+      "Enabled": true
+    }
+  ],
+  "Traces": [
+    {
+      "TraceId": "35",
+      "Name": "Venta inicial",
+      "DateSale": {
+        "$date": "2023-07-16T00:00:00.000Z"
+      },
+      "Value": 705000000,
+      "Tax": 12000000
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6903c83c4a26f14db19fe929"
+  },
+  "Name": "Chalet Medellín #36",
+  "Address": "Calle 63 #76-43, Medellín",
+  "Price": 513000000,
+  "CodeInternal": "CH-036",
+  "Year": 2019,
+  "Owner": {
+    "OwnerId": "36",
+    "Name": "Propietario 36",
+    "Address": "Dirección 36, Medellín",
+    "Photo": "https://picsum.photos/200/300",
+    "Birthday": {
+      "$date": "1996-05-23T00:00:00.000Z"
+    }
+  },
+  "Images": [
+    {
+      "ImageId": "36",
+      "File": "https://picsum.photos/200/300",
+      "Enabled": false
+    }
+  ],
+  "Traces": [
+    {
+      "TraceId": "36",
+      "Name": "Venta inicial",
+      "DateSale": {
+        "$date": "2020-10-19T00:00:00.000Z"
+      },
+      "Value": 503000000,
+      "Tax": 12000000
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6903c83c4a26f14db19fe92a"
+  },
+  "Name": "Casa Barranquilla #37",
+  "Address": "Calle 17 #8-88, Barranquilla",
+  "Price": 597000000,
+  "CodeInternal": "CA-037",
+  "Year": 2022,
+  "Owner": {
+    "OwnerId": "37",
+    "Name": "Propietario 37",
+    "Address": "Dirección 37, Barranquilla",
+    "Photo": "https://picsum.photos/200/300",
+    "Birthday": {
+      "$date": "1997-01-12T00:00:00.000Z"
+    }
+  },
+  "Images": [
+    {
+      "ImageId": "37",
+      "File": "https://picsum.photos/200/300",
+      "Enabled": false
+    }
+  ],
+  "Traces": [
+    {
+      "TraceId": "37",
+      "Name": "Venta inicial",
+      "DateSale": {
+        "$date": "2021-08-14T00:00:00.000Z"
+      },
+      "Value": 562000000,
+      "Tax": 10000000
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6903c83c4a26f14db19fe92b"
+  },
+  "Name": "Apartamento Bucaramanga #38",
+  "Address": "Calle 93 #57-74, Bucaramanga",
+  "Price": 297000000,
+  "CodeInternal": "AP-038",
+  "Year": 2017,
+  "Owner": {
+    "OwnerId": "38",
+    "Name": "Propietario 38",
+    "Address": "Dirección 38, Bucaramanga",
+    "Photo": "https://picsum.photos/200/300",
+    "Birthday": {
+      "$date": "1998-01-01T00:00:00.000Z"
+    }
+  },
+  "Images": [
+    {
+      "ImageId": "38",
+      "File": "https://picsum.photos/200/300",
+      "Enabled": true
+    }
+  ],
+  "Traces": [
+    {
+      "TraceId": "38",
+      "Name": "Venta inicial",
+      "DateSale": {
+        "$date": "2022-08-18T00:00:00.000Z"
+      },
+      "Value": 282000000,
+      "Tax": 8000000
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6903c83c4a26f14db19fe92c"
+  },
+  "Name": "Villa Cali #39",
+  "Address": "Calle 34 #46-34, Cali",
+  "Price": 751000000,
+  "CodeInternal": "VI-039",
+  "Year": 2021,
+  "Owner": {
+    "OwnerId": "39",
+    "Name": "Propietario 39",
+    "Address": "Dirección 39, Cali",
+    "Photo": "https://picsum.photos/200/300",
+    "Birthday": {
+      "$date": "1999-09-02T00:00:00.000Z"
+    }
+  },
+  "Images": [
+    {
+      "ImageId": "39",
+      "File": "https://picsum.photos/200/300",
+      "Enabled": false
+    }
+  ],
+  "Traces": [
+    {
+      "TraceId": "39",
+      "Name": "Venta inicial",
+      "DateSale": {
+        "$date": "2023-01-10T00:00:00.000Z"
+      },
+      "Value": 730000000,
+      "Tax": 5000000
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6903c83c4a26f14db19fe92d"
+  },
+  "Name": "Casa Medellín #40",
+  "Address": "Calle 86 #8-34, Medellín",
+  "Price": 324000000,
+  "CodeInternal": "CA-040",
+  "Year": 2018,
+  "Owner": {
+    "OwnerId": "40",
+    "Name": "Propietario 40",
+    "Address": "Dirección 40, Medellín",
+    "Photo": "https://picsum.photos/200/300",
+    "Birthday": {
+      "$date": "1980-11-22T00:00:00.000Z"
+    }
+  },
+  "Images": [
+    {
+      "ImageId": "40",
+      "File": "https://picsum.photos/200/300",
+      "Enabled": true
+    }
+  ],
+  "Traces": [
+    {
+      "TraceId": "40",
+      "Name": "Venta inicial",
+      "DateSale": {
+        "$date": "2020-01-21T00:00:00.000Z"
+      },
+      "Value": 303000000,
+      "Tax": 6000000
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6903c83c4a26f14db19fe92e"
+  },
+  "Name": "Apartamento Medellín #41",
+  "Address": "Calle 78 #9-30, Medellín",
+  "Price": 963000000,
+  "CodeInternal": "AP-041",
+  "Year": 2018,
+  "Owner": {
+    "OwnerId": "41",
+    "Name": "Propietario 41",
+    "Address": "Dirección 41, Medellín",
+    "Photo": "https://picsum.photos/200/300",
+    "Birthday": {
+      "$date": "1981-03-20T00:00:00.000Z"
+    }
+  },
+  "Images": [
+    {
+      "ImageId": "41",
+      "File": "https://picsum.photos/200/300",
+      "Enabled": false
+    }
+  ],
+  "Traces": [
+    {
+      "TraceId": "41",
+      "Name": "Venta inicial",
+      "DateSale": {
+        "$date": "2021-12-21T00:00:00.000Z"
+      },
+      "Value": 919000000,
+      "Tax": 6000000
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6903c83c4a26f14db19fe92f"
+  },
+  "Name": "Finca Bogotá #42",
+  "Address": "Calle 99 #33-30, Bogotá",
+  "Price": 254000000,
+  "CodeInternal": "FI-042",
+  "Year": 2016,
+  "Owner": {
+    "OwnerId": "42",
+    "Name": "Propietario 42",
+    "Address": "Dirección 42, Bogotá",
+    "Photo": "https://picsum.photos/200/300",
+    "Birthday": {
+      "$date": "1982-12-08T00:00:00.000Z"
+    }
+  },
+  "Images": [
+    {
+      "ImageId": "42",
+      "File": "https://picsum.photos/200/300",
+      "Enabled": false
+    }
+  ],
+  "Traces": [
+    {
+      "TraceId": "42",
+      "Name": "Venta inicial",
+      "DateSale": {
+        "$date": "2022-05-01T00:00:00.000Z"
+      },
+      "Value": 209000000,
+      "Tax": 13000000
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6903c83c4a26f14db19fe930"
+  },
+  "Name": "Loft Medellín #43",
+  "Address": "Calle 64 #96-24, Medellín",
+  "Price": 315000000,
+  "CodeInternal": "LO-043",
+  "Year": 2017,
+  "Owner": {
+    "OwnerId": "43",
+    "Name": "Propietario 43",
+    "Address": "Dirección 43, Medellín",
+    "Photo": "https://picsum.photos/200/300",
+    "Birthday": {
+      "$date": "1983-09-28T00:00:00.000Z"
+    }
+  },
+  "Images": [
+    {
+      "ImageId": "43",
+      "File": "https://picsum.photos/200/300",
+      "Enabled": true
+    }
+  ],
+  "Traces": [
+    {
+      "TraceId": "43",
+      "Name": "Venta inicial",
+      "DateSale": {
+        "$date": "2023-11-26T00:00:00.000Z"
+      },
+      "Value": 304000000,
+      "Tax": 6000000
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6903c83c4a26f14db19fe931"
+  },
+  "Name": "Loft Cali #44",
+  "Address": "Calle 83 #68-53, Cali",
+  "Price": 1113000000,
+  "CodeInternal": "LO-044",
+  "Year": 2017,
+  "Owner": {
+    "OwnerId": "44",
+    "Name": "Propietario 44",
+    "Address": "Dirección 44, Cali",
+    "Photo": "https://picsum.photos/200/300",
+    "Birthday": {
+      "$date": "1984-05-04T00:00:00.000Z"
+    }
+  },
+  "Images": [
+    {
+      "ImageId": "44",
+      "File": "https://picsum.photos/200/300",
+      "Enabled": false
+    }
+  ],
+  "Traces": [
+    {
+      "TraceId": "44",
+      "Name": "Venta inicial",
+      "DateSale": {
+        "$date": "2020-01-02T00:00:00.000Z"
+      },
+      "Value": 1100000000,
+      "Tax": 5000000
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6903c83c4a26f14db19fe932"
+  },
+  "Name": "Apartamento Cali #45",
+  "Address": "Calle 75 #72-60, Cali",
+  "Price": 213000000,
+  "CodeInternal": "AP-045",
+  "Year": 2019,
+  "Owner": {
+    "OwnerId": "45",
+    "Name": "Propietario 45",
+    "Address": "Dirección 45, Cali",
+    "Photo": "https://picsum.photos/200/300",
+    "Birthday": {
+      "$date": "1985-08-21T00:00:00.000Z"
+    }
+  },
+  "Images": [
+    {
+      "ImageId": "45",
+      "File": "https://picsum.photos/200/300",
+      "Enabled": false
+    }
+  ],
+  "Traces": [
+    {
+      "TraceId": "45",
+      "Name": "Venta inicial",
+      "DateSale": {
+        "$date": "2021-09-28T00:00:00.000Z"
+      },
+      "Value": 201000000,
+      "Tax": 8000000
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6903c83c4a26f14db19fe933"
+  },
+  "Name": "Casa Bucaramanga #46",
+  "Address": "Calle 44 #24-7, Bucaramanga",
+  "Price": 1091000000,
+  "CodeInternal": "CA-046",
+  "Year": 2018,
+  "Owner": {
+    "OwnerId": "46",
+    "Name": "Propietario 46",
+    "Address": "Dirección 46, Bucaramanga",
+    "Photo": "https://picsum.photos/200/300",
+    "Birthday": {
+      "$date": "1986-04-01T00:00:00.000Z"
+    }
+  },
+  "Images": [
+    {
+      "ImageId": "46",
+      "File": "https://picsum.photos/200/300",
+      "Enabled": true
+    }
+  ],
+  "Traces": [
+    {
+      "TraceId": "46",
+      "Name": "Venta inicial",
+      "DateSale": {
+        "$date": "2022-10-21T00:00:00.000Z"
+      },
+      "Value": 1042000000,
+      "Tax": 12000000
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6903c83c4a26f14db19fe934"
+  },
+  "Name": "Villa Barranquilla #47",
+  "Address": "Calle 72 #54-7, Barranquilla",
+  "Price": 772000000,
+  "CodeInternal": "VI-047",
+  "Year": 2019,
+  "Owner": {
+    "OwnerId": "47",
+    "Name": "Propietario 47",
+    "Address": "Dirección 47, Barranquilla",
+    "Photo": "https://picsum.photos/200/300",
+    "Birthday": {
+      "$date": "1987-06-25T00:00:00.000Z"
+    }
+  },
+  "Images": [
+    {
+      "ImageId": "47",
+      "File": "https://picsum.photos/200/300",
+      "Enabled": true
+    }
+  ],
+  "Traces": [
+    {
+      "TraceId": "47",
+      "Name": "Venta inicial",
+      "DateSale": {
+        "$date": "2023-04-11T00:00:00.000Z"
+      },
+      "Value": 738000000,
+      "Tax": 6000000
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6903c83c4a26f14db19fe935"
+  },
+  "Name": "Finca Barranquilla #48",
+  "Address": "Calle 54 #25-70, Barranquilla",
+  "Price": 243000000,
+  "CodeInternal": "FI-048",
+  "Year": 2017,
+  "Owner": {
+    "OwnerId": "48",
+    "Name": "Propietario 48",
+    "Address": "Dirección 48, Barranquilla",
+    "Photo": "https://picsum.photos/200/300",
+    "Birthday": {
+      "$date": "1988-03-16T00:00:00.000Z"
+    }
+  },
+  "Images": [
+    {
+      "ImageId": "48",
+      "File": "https://picsum.photos/200/300",
+      "Enabled": true
+    }
+  ],
+  "Traces": [
+    {
+      "TraceId": "48",
+      "Name": "Venta inicial",
+      "DateSale": {
+        "$date": "2020-05-16T00:00:00.000Z"
+      },
+      "Value": 196000000,
+      "Tax": 12000000
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6903c83c4a26f14db19fe936"
+  },
+  "Name": "Casa Bogotá #49",
+  "Address": "Calle 98 #45-7, Bogotá",
+  "Price": 615000000,
+  "CodeInternal": "CA-049",
+  "Year": 2022,
+  "Owner": {
+    "OwnerId": "49",
+    "Name": "Propietario 49",
+    "Address": "Dirección 49, Bogotá",
+    "Photo": "https://picsum.photos/200/300",
+    "Birthday": {
+      "$date": "1989-03-08T00:00:00.000Z"
+    }
+  },
+  "Images": [
+    {
+      "ImageId": "49",
+      "File": "https://picsum.photos/200/300",
+      "Enabled": false
+    }
+  ],
+  "Traces": [
+    {
+      "TraceId": "49",
+      "Name": "Venta inicial",
+      "DateSale": {
+        "$date": "2021-04-01T00:00:00.000Z"
+      },
+      "Value": 580000000,
+      "Tax": 13000000
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6903c83c4a26f14db19fe937"
+  },
+  "Name": "Penthouse Medellín #50",
+  "Address": "Calle 46 #81-14, Medellín",
+  "Price": 657000000,
+  "CodeInternal": "PE-050",
+  "Year": 2023,
+  "Owner": {
+    "OwnerId": "50",
+    "Name": "Propietario 50",
+    "Address": "Dirección 50, Medellín",
+    "Photo": "https://picsum.photos/200/300",
+    "Birthday": {
+      "$date": "1990-11-06T00:00:00.000Z"
+    }
+  },
+  "Images": [
+    {
+      "ImageId": "50",
+      "File": "https://picsum.photos/200/300",
+      "Enabled": false
+    }
+  ],
+  "Traces": [
+    {
+      "TraceId": "50",
+      "Name": "Venta inicial",
+      "DateSale": {
+        "$date": "2022-07-03T00:00:00.000Z"
+      },
+      "Value": 616000000,
+      "Tax": 12000000
+    }
+  ]
+}]
